@@ -1,10 +1,11 @@
 # JS11
 
 Sommaire:
+
   <a href="#etape1">Etape1</a>
-  Etape2
-  Etape3
-  Etape4
+  <a href="#etape1">Etape2</a>
+  <a href="#etape1">Etape3</a>
+  <a href="#etape1">Etape4</a>
 
 <h1 id="etape1"> Etape 1</h1>
 # Exercices JavaScript
