@@ -3,9 +3,9 @@
 Sommaire:
 
   <a href="#etape1">Etape1</a>
-  <a href="#etape1">Etape2</a>
-  <a href="#etape1">Etape3</a>
-  <a href="#etape1">Etape4</a>
+  <a href="#etape2">Etape2</a>
+  <a href="#etape3">Etape3</a>
+  <a href="#etape4">Etape4</a>
 
 <h1 id="etape1"> Etape 1</h1>
 # Exercices JavaScript
